@@ -3,7 +3,12 @@ title: Projects
 layout: post
 ---
 
-> On this page, some projects that I completed, sorted on scope. Most of them stem from the courses I've taken, which very closely fit my interests.
+> On this page, some projects that I completed, sorted on scope. 
+
+## Industrial projects
+Because all my projects at my work would take too much space, it has been moved to another page: 
+- [Work experience at the Konversaitional Startup](pages/work_at_konversaitional)
+- [Internship: NDA-sensitive project](pages/projects/InternshipGIM)
 
 ## Large Projects
 The following are all projects with a greater scope where I learnt a lot from them. Most of them took multiple months to complete.
