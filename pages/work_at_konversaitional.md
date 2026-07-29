@@ -1,5 +1,5 @@
 ---
-title: Working at the Konversaitional startup
+title: Working at the [Konversaitional](https://www.konversaitional.com/home) startup
 layout: post
 ---
 

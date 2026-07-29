@@ -4,7 +4,7 @@ layout: base
 
 <div class="home">
   {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
+    <h1 class="page-heading">{{ page.title | markdownify | strip_newlines | remove: '<p>' | remove: '</p>' }}</h1>
   {%- endif -%}
 
   {{ content }}
@@ -28,7 +28,7 @@ layout: base
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
+            {{ post.title | markdownify | strip_newlines | remove: '<p>' | remove: '</p>' }}
           </a>
         </h3>
         {%- if site.show_excerpts -%}
