@@ -34,18 +34,19 @@ It was really interesting to have been on this project since day one and seeing 
 Almost all technologies I used at the job were learned there. Some I learned (the basics) in school, but it was exciting to really learn to use them in the real world.
 I learned and used all those technologies on the job to create interesting products:
 
+- Cloud infrastructure (Azure)
+- Application deployment and orchestration with Docker
+- Observability and auditing with the Grafana stack
+- .NET development
+- API development with MCP and REST, with a focus on security
 - Security with OAuth, Keycloak, OpenID Connect
 - GitHub project management
 - Git
 - AI-assisted development
 - Computer networking with firewall and DNS management
-- Application deployment and orchestration with Docker and Azure
-- Observability and auditing with the Grafana stack
 - Multithreaded and scalable programming with actor frameworks (Akka)
-- .NET development
 - Semantic Kernel (more recently Microsoft Agents) for connecting to LLM services
 - Microsoft Graph API
-- API development with MCP and REST, with a focus on security
 - Telephony connection with SIP and Anynode
 - Websockets and webhooks
 

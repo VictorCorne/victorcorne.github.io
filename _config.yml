@@ -20,8 +20,8 @@
 # TODO this, but better!
 title: Victor Corne Portfolio
 email: victor-corne@hotmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Computer Science (AI) graduate from KULeuven.
+#description: >- # this means to ignore newlines until "baseurl:"
+#  Victor Corne portfolio website
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
