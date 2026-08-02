@@ -13,6 +13,7 @@ It was after some time of reflection and long discussions with my close circle (
 It was at that time that I got interviewed for a position for the new and exotic software innovation division at a bailiff's office in Ghent. 
 I liked the idea of starting in a small team, and building everything from the ground up, and since this was a startup, I was told that we would have to research and figure many things out.
 
+<img src="https://www.konversaitional.com/web/image/website/1/logo/konversaitional.com?unique=1628950" alt="Konversaitional logo" style="max-width: 100%; margin-bottom: 1rem;" />
 
 ## The job
 
